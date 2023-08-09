@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(45deg,lightgreen,coral,lightgreen);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+h2{
+    background:linear-gradient(45deg,darkred,black,red);
+    color: white;
+    padding: 15px;
+    border-radius: 80px;
+    width: 800px;
+    margin: auto;
+
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 10px;
+
+}
+*{
+    font-style: initial;
+    font-weight: 600;
+}
